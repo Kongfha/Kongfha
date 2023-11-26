@@ -30,8 +30,6 @@
 - Croissant Bonk Community
 - Transformer-Text-Generation (My First Transformer!)
 
-<p align="left">Hello World!!</p>
-
 ###
 
 <h2 align="left">Tech Stacks</h2>
