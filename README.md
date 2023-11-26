@@ -18,11 +18,13 @@
 
 ### Klonsuphap-LM
 
-### Optimization Algorithm for Black Box Function Design
+### GPT2-TH-ZH
 
 ### Vanilla Transformer Implementation in PyTorch
 
-### GPT2-TH-ZH
+### Optimization Algorithm for Black Box Function Design
+
+
 
 ### Other Projects
 - Undertale Music Generator
