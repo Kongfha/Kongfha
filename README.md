@@ -1,8 +1,8 @@
-<h1 align="left">Hi, I'm Kongfha! 👋</h1>
+<h1 align="center">Hi, I'm Kongfha! 👋</h1>
 
 ###
 
-<p align="left">I'm Computer Engineering Student at Chulalongkorn University.</p>
+**<h3 align="center">I'm Computer Engineering Student at Chulalongkorn University.</h>**
 
 ###
 
@@ -10,19 +10,31 @@
 
 ###
 
-<p align="left">👋 Passionate about NLP, deeply into ML/DL, crafting Text Generation Models.<br><br>📚 Actively learning ML/DL intricacies, striving for expertise.<br><br>💡 Currently Researching on model architecture design for Poem Generation, merging creativity with tech.<br><br>🔍 Exploring AI and language, a journey of growth and discovery.</p>
+<p align="left">👋 Passionate about NLP, deeply into ML/DL, crafting Text Generation Models.<br><br>📚 Actively learning ML/DL intricacies, striving for expertise.<br><br>💡 Currently working on model architecture design for Poem Generation, merging creativity with tech.<br><br>🔍 Exploring AI and language, a journey of growth and discovery.</p>
 
 ###
 
 <h2 align="left">My Highlighted Projects</h2>
 
-###
+### Klonsuphap-LM
+
+### Optimization Algorithm for Black Box Function Design
+
+### Vanilla Transformer Implementation in PyTorch
+
+### GPT2-TH-ZH
+
+### Other Projects
+- Undertale Music Generator
+- PhraAphaiManee-LM
+- Croissant Bonk Community
+- Transformer-Text-Generation (My First Transformer!)
 
 <p align="left">Hello World!!</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Tech Stacks</h2>
 
 ###
 
@@ -42,6 +54,5 @@
 
 ###
 
-<p align="left">Hello World!!</p>
 
 ###
